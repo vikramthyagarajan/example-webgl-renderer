@@ -1,0 +1,2199 @@
+{
+  "id": "corporal_blue",
+  "title": "Corporal Blue",
+  "thumbnailUrl": "https://rephrase-assets.s3.ap-south-1.amazonaws.com/template_thumbnails/cold_reachout_1.png",
+  "elements": {
+    "meymTY11Q": {
+      "id": "meymTY11Q",
+      "draft": true,
+      "style": {
+        "position": "absolute",
+        "zIndex": 5,
+        "bottom": "-2.236166728591284em",
+        "objectFit": "cover",
+        "height": "50.22774498066576em",
+        "width": "89.54213626167967em",
+        "left": "-24.960437050186464em"
+      },
+      "isRendered": false,
+      "asset": {
+        "kind": "Spokesperson",
+        "spokespersonVideo": {
+          "model": "danielle_pettee_look_2_nt_aug_2022",
+          "voiceId": "7bc739a4-7abc-46db-bc75-e24b6f899fa9__005",
+          "langugae": "en-US",
+          "speechText": "Change this template text to add your own",
+          "modelPreset": "MS",
+          "output_params": {
+            "video": {
+              "crop": { "preset": "MS" },
+              "resolution": { "height": 964, "width": 1718 },
+              "background": { "alpha": 0 }
+            }
+          },
+          "isVoiceOver": false,
+          "frameOffset": 0,
+          "pipelineVersion": "v2",
+          "gender": "female",
+          "editorValueJson": [
+            {
+              "type": "paragraph",
+              "children": [
+                { "text": "Change this template text to add your own" }
+              ]
+            }
+          ],
+          "transcript_type": "ssml_limited",
+          "templateId": null,
+          "windowSize": "transparent",
+          "language": "en-US"
+        },
+        "spokespersonAudio": { "jobId": null, "url": null, "status": "idle" },
+        "thumbnailUrl": "https://rephrase-assets.s3.ap-south-1.amazonaws.com/actor_thumbnail/danielle_pettee_look_2_nt_aug_2022___danielle_pettee_look_2_nt_aug_2022___ms.webp",
+        "url": null,
+        "generateFromRecordedVideo": false
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "meymTY11Q", "offset": 0 },
+      "endTime": { "timeframeId": "meymTY11Q", "offset": 5 }
+    },
+    "zHFlwiIyZ": {
+      "id": "zHFlwiIyZ",
+      "style": {
+        "height": "100%",
+        "width": "100%",
+        "position": "absolute",
+        "zIndex": 1
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "use": "Background",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672905491/music_uploads/gokdppcbdqauvoaekx3v.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672905491/music_uploads/gokdppcbdqauvoaekx3v.png"
+      },
+      "animations": [],
+      "backgroundColor": "#00BCD4AA",
+      "startTime": { "timeframeId": "meymTY11Q", "offset": 0 },
+      "endTime": { "timeframeId": "meymTY11Q", "offset": 5 }
+    },
+    "PxeDwbuzp": {
+      "id": "PxeDwbuzp",
+      "draft": true,
+      "style": {
+        "position": "absolute",
+        "zIndex": 5,
+        "bottom": "-5.676423234116336em",
+        "objectFit": "cover",
+        "height": "37.498795910223066em",
+        "width": "66.66563458971501em",
+        "left": "-13.435577756677539em"
+      },
+      "isRendered": false,
+      "asset": {
+        "kind": "Spokesperson",
+        "spokespersonVideo": {
+          "model": "danielle_pettee_look_2_nt_aug_2022",
+          "voiceId": "7bc739a4-7abc-46db-bc75-e24b6f899fa9__005",
+          "langugae": "en-US",
+          "speechText": "Change this template text to add your own",
+          "modelPreset": "MS",
+          "output_params": {
+            "video": {
+              "crop": { "preset": "MS" },
+              "resolution": { "height": 720, "width": 1280 },
+              "background": { "alpha": 0 }
+            }
+          },
+          "isVoiceOver": false,
+          "frameOffset": 0,
+          "pipelineVersion": "v2",
+          "gender": "female",
+          "templateId": null,
+          "editorValueJson": [
+            {
+              "type": "paragraph",
+              "children": [
+                { "text": "Change this template text to add your own" }
+              ]
+            }
+          ],
+          "transcript_type": "ssml_limited"
+        },
+        "spokespersonAudio": {
+          "status": "idle",
+          "url": null,
+          "jobId": null,
+          "customAudioUrl": null,
+          "customAudioFilename": null,
+          "customAudioDuration": 0
+        },
+        "thumbnailUrl": "https://rephrase-assets.s3.ap-south-1.amazonaws.com/actor_thumbnail/danielle_pettee_look_2_nt_aug_2022___danielle_pettee_look_2_nt_aug_2022___ms.webp",
+        "url": null
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "PxeDwbuzp", "offset": 0 },
+      "endTime": { "timeframeId": "PxeDwbuzp", "offset": 5 }
+    },
+    "AfIzudHyw": {
+      "id": "AfIzudHyw",
+      "draft": true,
+      "style": {
+        "position": "absolute",
+        "zIndex": 5,
+        "bottom": "2.0477213586788734em",
+        "objectFit": "cover",
+        "height": "37.49881862229307em",
+        "width": "66.66656165531494em",
+        "left": "48.64267577325109em"
+      },
+      "isRendered": false,
+      "asset": {
+        "kind": "Spokesperson",
+        "spokespersonVideo": {
+          "model": "danielle_pettee_look_2_nt_aug_2022",
+          "voiceId": "7bc739a4-7abc-46db-bc75-e24b6f899fa9__005",
+          "langugae": "en-US",
+          "speechText": "Change this template text to add your own",
+          "modelPreset": "MS",
+          "output_params": {
+            "video": {
+              "crop": { "preset": "MS" },
+              "resolution": { "height": 720, "width": 1280 },
+              "background": { "alpha": 0 }
+            }
+          },
+          "isVoiceOver": false,
+          "frameOffset": 0,
+          "pipelineVersion": "v2",
+          "gender": "female",
+          "templateId": null
+        },
+        "spokespersonAudio": {
+          "status": "idle",
+          "url": null,
+          "jobId": null,
+          "customAudioUrl": null,
+          "customAudioFilename": null,
+          "customAudioDuration": 0
+        },
+        "thumbnailUrl": "https://rephrase-assets.s3.ap-south-1.amazonaws.com/actor_thumbnail/danielle_pettee_look_2_nt_aug_2022___danielle_pettee_look_2_nt_aug_2022___ms.webp",
+        "url": null
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "AfIzudHyw", "offset": 0 },
+      "endTime": { "timeframeId": "AfIzudHyw", "offset": 5 }
+    },
+    "n9lirjqNN": {
+      "id": "n9lirjqNN",
+      "style": {
+        "height": "100%",
+        "width": "100%",
+        "position": "absolute",
+        "zIndex": 1
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "use": "Background",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672905510/music_uploads/dawro6qnqodcyvwvjs38.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672905510/music_uploads/dawro6qnqodcyvwvjs38.png"
+      },
+      "animations": [],
+      "backgroundColor": "#9C27B0AA",
+      "startTime": { "timeframeId": "AfIzudHyw", "offset": 0 },
+      "endTime": { "timeframeId": "AfIzudHyw", "offset": 5 }
+    },
+    "YbU8buPeD": {
+      "id": "YbU8buPeD",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "5.333333333333333em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "right",
+        "height": "7.621114842514476em",
+        "width": "33.93751614549533em",
+        "bottom": "34.375098448142246em",
+        "left": "60.49047652051187em",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Add a heading",
+        "isPersonalized": false,
+        "label": "Add a heading",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "5.333333333333333em",
+          "textDecorationColor": "#000000",
+          "align": "right"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "meymTY11Q", "offset": 0 },
+      "endTime": { "timeframeId": "meymTY11Q", "offset": 5 }
+    },
+    "qqEBzS5AA": {
+      "id": "qqEBzS5AA",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "justify",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000",
+        "height": "12.965620333558059em",
+        "width": "45.8732113941517em",
+        "bottom": "15.74555959499222em",
+        "left": "48.04757644301349em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "1.7777777777777777em",
+          "textDecorationColor": "#000000",
+          "align": "justify"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "meymTY11Q", "offset": 0 },
+      "endTime": { "timeframeId": "meymTY11Q", "offset": 5 }
+    },
+    "CexIcIMaD": {
+      "id": "CexIcIMaD",
+      "style": {
+        "height": "100%",
+        "width": "100%",
+        "position": "absolute",
+        "zIndex": 1
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "use": "Background",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672906032/music_uploads/atuuksbtyqlmagivitkl.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672906032/music_uploads/atuuksbtyqlmagivitkl.png"
+      },
+      "animations": [],
+      "backgroundColor": "#795548AA",
+      "startTime": { "timeframeId": "PxeDwbuzp", "offset": 0 },
+      "endTime": { "timeframeId": "PxeDwbuzp", "offset": 5 }
+    },
+    "bEvU75vqK": {
+      "id": "bEvU75vqK",
+      "draft": true,
+      "style": {
+        "position": "absolute",
+        "zIndex": 5,
+        "bottom": "6.77323218639935em",
+        "objectFit": "cover",
+        "height": "37.49771600309994em",
+        "width": "66.6654590361218em",
+        "left": "50.84791415952065em"
+      },
+      "isRendered": false,
+      "asset": {
+        "kind": "Spokesperson",
+        "spokespersonVideo": {
+          "model": "danielle_pettee_look_2_nt_aug_2022",
+          "voiceId": "7bc739a4-7abc-46db-bc75-e24b6f899fa9__005",
+          "langugae": "en-US",
+          "speechText": "Change this template text to add your own",
+          "modelPreset": "MS",
+          "output_params": {
+            "video": {
+              "crop": { "preset": "MS" },
+              "resolution": { "height": 720, "width": 1280 },
+              "background": { "alpha": 0 }
+            }
+          },
+          "isVoiceOver": false,
+          "frameOffset": 0,
+          "pipelineVersion": "v2",
+          "gender": "female",
+          "templateId": null,
+          "editorValueJson": [
+            {
+              "type": "paragraph",
+              "children": [
+                { "text": "Change this template text to add your own" }
+              ]
+            }
+          ],
+          "transcript_type": "ssml_limited"
+        },
+        "spokespersonAudio": {
+          "status": "idle",
+          "url": null,
+          "jobId": null,
+          "customAudioUrl": null,
+          "customAudioFilename": null,
+          "customAudioDuration": 0
+        },
+        "thumbnailUrl": "https://rephrase-assets.s3.ap-south-1.amazonaws.com/actor_thumbnail/danielle_pettee_look_2_nt_aug_2022___danielle_pettee_look_2_nt_aug_2022___ms.webp",
+        "url": null
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "bEvU75vqK", "offset": 0 },
+      "endTime": { "timeframeId": "bEvU75vqK", "offset": 5 }
+    },
+    "PnrM7k3Td": {
+      "id": "PnrM7k3Td",
+      "style": {
+        "height": "100%",
+        "width": "100%",
+        "position": "absolute",
+        "zIndex": 1
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "use": "Background",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672906091/music_uploads/rr5izqkkwfcdg1lu9ntz.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672906091/music_uploads/rr5izqkkwfcdg1lu9ntz.png"
+      },
+      "animations": [],
+      "backgroundColor": "#3F51B5AA",
+      "startTime": { "timeframeId": "bEvU75vqK", "offset": 0 },
+      "endTime": { "timeframeId": "bEvU75vqK", "offset": 5 }
+    },
+    "ouqpBwpb8": {
+      "id": "ouqpBwpb8",
+      "draft": true,
+      "style": {
+        "position": "absolute",
+        "zIndex": 5,
+        "bottom": "24.730173331737163em",
+        "objectFit": "cover",
+        "height": "27.416626237296253em",
+        "width": "48.86603491837467em",
+        "left": "-3.022909276492789em"
+      },
+      "isRendered": false,
+      "asset": {
+        "kind": "Spokesperson",
+        "spokespersonVideo": {
+          "model": "danielle_pettee_look_2_nt_aug_2022",
+          "voiceId": "7bc739a4-7abc-46db-bc75-e24b6f899fa9__005",
+          "langugae": "en-US",
+          "speechText": "Change this template text to add your own",
+          "modelPreset": "MS",
+          "output_params": {
+            "video": {
+              "crop": { "preset": "MS" },
+              "resolution": { "height": 526, "width": 938 },
+              "background": { "alpha": 0 }
+            }
+          },
+          "isVoiceOver": false,
+          "frameOffset": 0,
+          "pipelineVersion": "v2",
+          "gender": "female",
+          "templateId": null
+        },
+        "spokespersonAudio": {
+          "status": "idle",
+          "url": null,
+          "jobId": null,
+          "customAudioUrl": null,
+          "customAudioFilename": null,
+          "customAudioDuration": 0
+        },
+        "thumbnailUrl": "https://rephrase-assets.s3.ap-south-1.amazonaws.com/actor_thumbnail/danielle_pettee_look_2_nt_aug_2022___danielle_pettee_look_2_nt_aug_2022___ms.webp",
+        "url": null
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "ouqpBwpb8", "offset": 0 },
+      "endTime": { "timeframeId": "ouqpBwpb8", "offset": 5 }
+    },
+    "lUNvS-IL1": {
+      "id": "lUNvS-IL1",
+      "style": {
+        "height": "100%",
+        "width": "100%",
+        "position": "absolute",
+        "zIndex": 1
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "use": "Background",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672906557/music_uploads/ipym6cbcrydeqznubxt4.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672906557/music_uploads/ipym6cbcrydeqznubxt4.png"
+      },
+      "animations": [],
+      "backgroundColor": "#E91E63AA",
+      "startTime": { "timeframeId": "ouqpBwpb8", "offset": 0 },
+      "endTime": { "timeframeId": "ouqpBwpb8", "offset": 5 }
+    },
+    "UdQLqGEY1": {
+      "id": "UdQLqGEY1",
+      "draft": true,
+      "style": {
+        "position": "absolute",
+        "zIndex": 5,
+        "bottom": "6.458198131217985em",
+        "objectFit": "cover",
+        "height": "26.47152407175216em",
+        "width": "47.29086464246785em",
+        "left": "49.27274388361383em"
+      },
+      "isRendered": false,
+      "asset": {
+        "kind": "Spokesperson",
+        "spokespersonVideo": {
+          "model": "danielle_pettee_look_2_nt_aug_2022",
+          "voiceId": "7bc739a4-7abc-46db-bc75-e24b6f899fa9__005",
+          "langugae": "en-US",
+          "speechText": "Change this template text to add your own",
+          "modelPreset": "MS",
+          "output_params": {
+            "video": {
+              "crop": { "preset": "MS" },
+              "resolution": { "height": 508, "width": 908 },
+              "background": { "alpha": 0 }
+            }
+          },
+          "isVoiceOver": false,
+          "frameOffset": 0,
+          "pipelineVersion": "v2",
+          "gender": "female",
+          "templateId": null,
+          "editorValueJson": [
+            {
+              "type": "paragraph",
+              "children": [
+                { "text": "Change this template text to add your own" }
+              ]
+            }
+          ],
+          "transcript_type": "ssml_limited"
+        },
+        "spokespersonAudio": {
+          "status": "idle",
+          "url": null,
+          "jobId": null,
+          "customAudioUrl": null,
+          "customAudioFilename": null,
+          "customAudioDuration": 0
+        },
+        "thumbnailUrl": "https://rephrase-assets.s3.ap-south-1.amazonaws.com/actor_thumbnail/danielle_pettee_look_2_nt_aug_2022___danielle_pettee_look_2_nt_aug_2022___ms.webp",
+        "url": null
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "UdQLqGEY1", "offset": 0 },
+      "endTime": { "timeframeId": "UdQLqGEY1", "offset": 5 }
+    },
+    "UinLOxjke": {
+      "id": "UinLOxjke",
+      "style": {
+        "height": "100%",
+        "width": "100%",
+        "position": "absolute",
+        "zIndex": 1
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "use": "Background",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672907550/music_uploads/u6z2sorcgjmoopbgdn6p.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672907550/music_uploads/u6z2sorcgjmoopbgdn6p.png"
+      },
+      "animations": [],
+      "backgroundColor": "#F44336AA",
+      "startTime": { "timeframeId": "UdQLqGEY1", "offset": 0 },
+      "endTime": { "timeframeId": "UdQLqGEY1", "offset": 5 }
+    },
+    "FxrOtvHZH": {
+      "id": "FxrOtvHZH",
+      "draft": true,
+      "style": {
+        "position": "absolute",
+        "zIndex": 5,
+        "bottom": "1.5751702759068256em",
+        "objectFit": "cover",
+        "height": "25.84145596138943em",
+        "width": "46.03072842174239em",
+        "left": "-3.337943331674154em"
+      },
+      "isRendered": false,
+      "asset": {
+        "kind": "Spokesperson",
+        "spokespersonVideo": {
+          "model": "danielle_pettee_look_2_nt_aug_2022",
+          "voiceId": "7bc739a4-7abc-46db-bc75-e24b6f899fa9__005",
+          "langugae": "en-US",
+          "speechText": "Change this template text to add your own",
+          "modelPreset": "MS",
+          "output_params": {
+            "video": {
+              "crop": { "preset": "MS" },
+              "resolution": { "height": 496, "width": 884 },
+              "background": { "alpha": 0 }
+            }
+          },
+          "isVoiceOver": false,
+          "frameOffset": 0,
+          "pipelineVersion": "v2",
+          "gender": "female",
+          "templateId": null,
+          "editorValueJson": [
+            {
+              "type": "paragraph",
+              "children": [
+                { "text": "Change this template text to add your own" }
+              ]
+            }
+          ],
+          "transcript_type": "ssml_limited"
+        },
+        "spokespersonAudio": {
+          "status": "idle",
+          "url": null,
+          "jobId": null,
+          "customAudioUrl": null,
+          "customAudioFilename": null,
+          "customAudioDuration": 0
+        },
+        "thumbnailUrl": "https://rephrase-assets.s3.ap-south-1.amazonaws.com/actor_thumbnail/danielle_pettee_look_2_nt_aug_2022___danielle_pettee_look_2_nt_aug_2022___ms.webp",
+        "url": null
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "FxrOtvHZH", "offset": 0 },
+      "endTime": { "timeframeId": "FxrOtvHZH", "offset": 5 }
+    },
+    "l393kh4Hd": {
+      "id": "l393kh4Hd",
+      "style": {
+        "height": "100%",
+        "width": "100%",
+        "position": "absolute",
+        "zIndex": 1
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "use": "Background",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672907576/music_uploads/nqt6ry8cqjh55gpbsecv.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672907576/music_uploads/nqt6ry8cqjh55gpbsecv.png"
+      },
+      "animations": [],
+      "backgroundColor": "#FFEB3BAA",
+      "startTime": { "timeframeId": "FxrOtvHZH", "offset": 0 },
+      "endTime": { "timeframeId": "FxrOtvHZH", "offset": 5 }
+    },
+    "KCbmkOin-": {
+      "id": "KCbmkOin-",
+      "draft": true,
+      "style": {
+        "position": "absolute",
+        "zIndex": 5,
+        "bottom": "11.026191931347778em",
+        "objectFit": "cover",
+        "height": "37.49881862229307em",
+        "width": "66.66656165531494em",
+        "left": "48.17012469047905em"
+      },
+      "isRendered": false,
+      "asset": {
+        "kind": "Spokesperson",
+        "spokespersonVideo": {
+          "model": "danielle_pettee_look_2_nt_aug_2022",
+          "voiceId": "7bc739a4-7abc-46db-bc75-e24b6f899fa9__005",
+          "langugae": "en-US",
+          "speechText": "Change this template text to add your own",
+          "modelPreset": "MS",
+          "output_params": {
+            "video": {
+              "crop": { "preset": "MS" },
+              "resolution": { "height": 720, "width": 1280 },
+              "background": { "alpha": 0 }
+            }
+          },
+          "isVoiceOver": false,
+          "frameOffset": 0,
+          "pipelineVersion": "v2",
+          "gender": "female",
+          "templateId": null,
+          "editorValueJson": [
+            {
+              "type": "paragraph",
+              "children": [
+                { "text": "Change this template text to add your own" }
+              ]
+            }
+          ],
+          "transcript_type": "ssml_limited"
+        },
+        "spokespersonAudio": {
+          "status": "idle",
+          "url": null,
+          "jobId": null,
+          "customAudioUrl": null,
+          "customAudioFilename": null,
+          "customAudioDuration": 0
+        },
+        "thumbnailUrl": "https://rephrase-assets.s3.ap-south-1.amazonaws.com/actor_thumbnail/danielle_pettee_look_2_nt_aug_2022___danielle_pettee_look_2_nt_aug_2022___ms.webp",
+        "url": null
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "KCbmkOin-", "offset": 0 },
+      "endTime": { "timeframeId": "KCbmkOin-", "offset": 5 }
+    },
+    "hgWAP3NDx": {
+      "id": "hgWAP3NDx",
+      "style": {
+        "height": "100%",
+        "width": "100%",
+        "position": "absolute",
+        "zIndex": 1
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "use": "Background",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672907640/music_uploads/cawpe4wgdjpumodbahwr.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672907640/music_uploads/cawpe4wgdjpumodbahwr.png"
+      },
+      "animations": [],
+      "backgroundColor": "#00BCD4AA",
+      "startTime": { "timeframeId": "KCbmkOin-", "offset": 0 },
+      "endTime": { "timeframeId": "KCbmkOin-", "offset": 5 }
+    },
+    "LNzyemKS9": {
+      "id": "LNzyemKS9",
+      "draft": true,
+      "style": {
+        "position": "absolute",
+        "zIndex": 5,
+        "bottom": "14.806600593524161em",
+        "objectFit": "cover",
+        "height": "26.786558126933524em",
+        "width": "47.763415725239895em",
+        "left": "58.093697428692046em"
+      },
+      "isRendered": false,
+      "asset": {
+        "kind": "Spokesperson",
+        "spokespersonVideo": {
+          "model": "danielle_pettee_look_2_nt_aug_2022",
+          "voiceId": "7bc739a4-7abc-46db-bc75-e24b6f899fa9__005",
+          "langugae": "en-US",
+          "speechText": "Change this template text to add your own",
+          "modelPreset": "MS",
+          "output_params": {
+            "video": {
+              "crop": { "preset": "MS" },
+              "resolution": { "height": 514, "width": 916 },
+              "background": { "alpha": 0 }
+            }
+          },
+          "isVoiceOver": false,
+          "frameOffset": 0,
+          "pipelineVersion": "v2",
+          "gender": "female",
+          "templateId": null,
+          "editorValueJson": [
+            {
+              "type": "paragraph",
+              "children": [
+                { "text": "Change this template text to add your own" }
+              ]
+            }
+          ],
+          "transcript_type": "ssml_limited"
+        },
+        "spokespersonAudio": {
+          "status": "idle",
+          "url": null,
+          "jobId": null,
+          "customAudioUrl": null,
+          "customAudioFilename": null,
+          "customAudioDuration": 0
+        },
+        "thumbnailUrl": "https://rephrase-assets.s3.ap-south-1.amazonaws.com/actor_thumbnail/danielle_pettee_look_2_nt_aug_2022___danielle_pettee_look_2_nt_aug_2022___ms.webp",
+        "url": null
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "LNzyemKS9", "offset": 0 },
+      "endTime": { "timeframeId": "LNzyemKS9", "offset": 5 }
+    },
+    "OLkyxLQIq": {
+      "id": "OLkyxLQIq",
+      "style": {
+        "height": "100%",
+        "width": "100%",
+        "position": "absolute",
+        "zIndex": 1
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "use": "Background",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672907774/music_uploads/anpr69ymjl1epkmbyobw.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672907774/music_uploads/anpr69ymjl1epkmbyobw.png"
+      },
+      "animations": [],
+      "backgroundColor": "#E91E63AA",
+      "startTime": { "timeframeId": "LNzyemKS9", "offset": 0 },
+      "endTime": { "timeframeId": "LNzyemKS9", "offset": 5 }
+    },
+    "jlALC_QoB": {
+      "id": "jlALC_QoB",
+      "draft": true,
+      "style": {
+        "position": "absolute",
+        "zIndex": 5,
+        "bottom": "14.806600593524161em",
+        "objectFit": "cover",
+        "height": "28.204211375249667em",
+        "width": "50.283688166690816em",
+        "left": "53.36818660097157em"
+      },
+      "isRendered": false,
+      "asset": {
+        "kind": "Spokesperson",
+        "spokespersonVideo": {
+          "model": "danielle_pettee_look_2_nt_aug_2022",
+          "voiceId": "7bc739a4-7abc-46db-bc75-e24b6f899fa9__005",
+          "langugae": "en-US",
+          "speechText": "Change this template text to add your own",
+          "modelPreset": "MS",
+          "output_params": {
+            "video": {
+              "crop": { "preset": "MS" },
+              "resolution": { "height": 542, "width": 964 },
+              "background": { "alpha": 0 }
+            }
+          },
+          "isVoiceOver": false,
+          "frameOffset": 0,
+          "pipelineVersion": "v2",
+          "gender": "female",
+          "templateId": null,
+          "editorValueJson": [
+            {
+              "type": "paragraph",
+              "children": [
+                { "text": "Change this template text to add your own" }
+              ]
+            }
+          ],
+          "transcript_type": "ssml_limited"
+        },
+        "spokespersonAudio": {
+          "status": "idle",
+          "url": null,
+          "jobId": null,
+          "customAudioUrl": null,
+          "customAudioFilename": null,
+          "customAudioDuration": 0
+        },
+        "thumbnailUrl": "https://rephrase-assets.s3.ap-south-1.amazonaws.com/actor_thumbnail/danielle_pettee_look_2_nt_aug_2022___danielle_pettee_look_2_nt_aug_2022___ms.webp",
+        "url": null
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "jlALC_QoB", "offset": 0 },
+      "endTime": { "timeframeId": "jlALC_QoB", "offset": 5 }
+    },
+    "Sl28Ya_4X": {
+      "id": "Sl28Ya_4X",
+      "style": {
+        "height": "100%",
+        "width": "100%",
+        "position": "absolute",
+        "zIndex": 1
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "use": "Background",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672907850/music_uploads/cxxjjag75xrdy7kjkuro.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672907850/music_uploads/cxxjjag75xrdy7kjkuro.png"
+      },
+      "animations": [],
+      "backgroundColor": "#9E9E9EAA",
+      "startTime": { "timeframeId": "jlALC_QoB", "offset": 0 },
+      "endTime": { "timeframeId": "jlALC_QoB", "offset": 5 }
+    },
+    "G34MxpkMx": {
+      "id": "G34MxpkMx",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "2.6666666666666665em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "right",
+        "height": "3.812400370480049em",
+        "width": "21.305438117860543em",
+        "bottom": "30.542236615778165em",
+        "left": "71.98528160894193em",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Add a subheading",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "2.6666666666666665em",
+          "align": "right",
+          "textDecorationColor": "#000000"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "meymTY11Q", "offset": 0 },
+      "endTime": { "timeframeId": "meymTY11Q", "offset": 5 }
+    },
+    "_h6uddfV5": {
+      "id": "_h6uddfV5",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "5.333333333333333em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000",
+        "height": "9.043698373794207em",
+        "width": "48.12397220139498em",
+        "bottom": "41.69286699892258em",
+        "left": "4.725510827720477em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Put title text here",
+        "isPersonalized": false,
+        "label": "Add a heading",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "5.333333333333333em",
+          "textDecorationColor": "#000000"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "PxeDwbuzp", "offset": 0 },
+      "endTime": { "timeframeId": "PxeDwbuzp", "offset": 5 }
+    },
+    "HQgnQYid5": {
+      "id": "HQgnQYid5",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "13.121908728333533em",
+        "width": "47.097591249614084em",
+        "bottom": "29.26241076660387em",
+        "left": "5.198061910492524em",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid.",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "1.7777777777777777em",
+          "textDecorationColor": "#000000",
+          "align": "left"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "PxeDwbuzp", "offset": 0 },
+      "endTime": { "timeframeId": "PxeDwbuzp", "offset": 5 }
+    },
+    "Ic62bQCWv": {
+      "id": "Ic62bQCWv",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "5.333333333333333em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000",
+        "height": "9.043698373794207em",
+        "width": "47.65142111862293em",
+        "bottom": "43.26803727482941em",
+        "left": "7.2457832691713975em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Put title text here",
+        "isPersonalized": false,
+        "label": "Add a heading",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "5.333333333333333em",
+          "textDecorationColor": "#000000"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "AfIzudHyw", "offset": 0 },
+      "endTime": { "timeframeId": "AfIzudHyw", "offset": 5 }
+    },
+    "CKCCorvBR": {
+      "id": "CKCCorvBR",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "2.111111111111111em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "11.705484112832599em",
+        "width": "42.37208042189361em",
+        "bottom": "8.31264609704309em",
+        "left": "8.820953545078224em",
+        "fontColor": "#ffffff",
+        "textDecorationColor": "#ffffff"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#ffffff",
+          "fontSize": "2.111111111111111em",
+          "textDecorationColor": "#ffffff"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "AfIzudHyw", "offset": 0 },
+      "endTime": { "timeframeId": "AfIzudHyw", "offset": 5 }
+    },
+    "ldyEzSYSi": {
+      "id": "ldyEzSYSi",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "2.6666666666666665em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontColor": "#ffffff",
+        "textDecorationColor": "#ffffff",
+        "height": "4.912562297984413em",
+        "width": "20.236055017547397em",
+        "bottom": "21.248731987927897em",
+        "left": "8.505919489896858em",
+        "fontWeight": "bold"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem Ipsum",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#ffffff",
+          "fontSize": "2.6666666666666665em",
+          "textDecorationColor": "#ffffff",
+          "fontWeight": "bold"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "AfIzudHyw", "offset": 0 },
+      "endTime": { "timeframeId": "AfIzudHyw", "offset": 5 }
+    },
+    "N2fVZiW1e": {
+      "id": "N2fVZiW1e",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "3.2222222222222223em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "11.730104024245021em",
+        "width": "41.89862683062069em",
+        "bottom": "25.576828989856157em",
+        "left": "7.875843960990248em",
+        "fontColor": "#4a90e2",
+        "textDecorationColor": "#4a90e2",
+        "fontWeight": "bold"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "PUT NUMERIC DATA HERE",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#4a90e2",
+          "fontSize": "3.2222222222222223em",
+          "textDecorationColor": "#4a90e2",
+          "fontWeight": "bold"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "AfIzudHyw", "offset": 0 },
+      "endTime": { "timeframeId": "AfIzudHyw", "offset": 5 }
+    },
+    "bNl2etIw-": {
+      "id": "bNl2etIw-",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "12.936085890884804em",
+        "width": "45.4068034754557em",
+        "bottom": "32.442364519604574em",
+        "left": "7.5608173243527625em",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "1.7777777777777777em",
+          "textDecorationColor": "#000000"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "AfIzudHyw", "offset": 0 },
+      "endTime": { "timeframeId": "AfIzudHyw", "offset": 5 }
+    },
+    "TscrjZGO0": {
+      "id": "TscrjZGO0",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "2.6666666666666665em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "9.997416720747513em",
+        "width": "35.75636526308494em",
+        "bottom": "41.05413545204237em",
+        "left": "6.458198131217985em",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Supporting text Goes here",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "2.6666666666666665em",
+          "textDecorationColor": "#000000"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "bEvU75vqK", "offset": 0 },
+      "endTime": { "timeframeId": "bEvU75vqK", "offset": 5 }
+    },
+    "Urc2GHHsh": {
+      "id": "Urc2GHHsh",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "5.333333333333333em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "9.988800539338303em",
+        "width": "44.17250004725511em",
+        "bottom": "36.33728806083938em",
+        "left": "5.828130020855255em",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Put title text here",
+        "isPersonalized": false,
+        "label": "Add a heading",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "5.333333333333333em",
+          "textDecorationColor": "#000000"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "bEvU75vqK", "offset": 0 },
+      "endTime": { "timeframeId": "bEvU75vqK", "offset": 5 }
+    },
+    "HLSEI2Zc_": {
+      "id": "HLSEI2Zc_",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "justify",
+        "height": "17.374915728390242em",
+        "width": "62.53425995350098em",
+        "bottom": "0.9093458002810104em",
+        "left": "6.300681103627302em",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "1.7777777777777777em",
+          "textDecorationColor": "#000000",
+          "align": "justify"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "bEvU75vqK", "offset": 0 },
+      "endTime": { "timeframeId": "bEvU75vqK", "offset": 5 }
+    },
+    "ucSvOvXS_": {
+      "id": "ucSvOvXS_",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "2.111111111111111em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "8.692970960160794em",
+        "width": "49.6585030841834em",
+        "bottom": "5.812063284041006em",
+        "left": "4.725510827720477em",
+        "fontWeight": "bold"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Title test here \nthat can be comparatively larger \nthat the title texts shown\n in the earlier slides",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#FFFFFF",
+          "fontSize": "2.111111111111111em",
+          "fontWeight": "bold",
+          "align": "left"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "ouqpBwpb8", "offset": 0 },
+      "endTime": { "timeframeId": "ouqpBwpb8", "offset": 5 }
+    },
+    "LEC2hyC8D": {
+      "id": "LEC2hyC8D",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "9.784516706255946em",
+        "width": "34.2254572719311em",
+        "bottom": "6.294537939551265em",
+        "left": "60.95908967759415em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#FFFFFF",
+          "fontSize": "1.7777777777777777em"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "ouqpBwpb8", "offset": 0 },
+      "endTime": { "timeframeId": "ouqpBwpb8", "offset": 5 }
+    },
+    "pRh6RnFhM": {
+      "id": "pRh6RnFhM",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontColor": "#ffffff",
+        "textDecorationColor": "#ffffff",
+        "height": "11.547967085241915em",
+        "width": "42.05704636671224em",
+        "bottom": "32.570268346008206em",
+        "left": "53.55578938083207em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#ffffff",
+          "fontSize": "1.7777777777777777em",
+          "textDecorationColor": "#ffffff"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "UdQLqGEY1", "offset": 0 },
+      "endTime": { "timeframeId": "UdQLqGEY1", "offset": 5 }
+    },
+    "oYsAdPXgn": {
+      "id": "oYsAdPXgn",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "2.6666666666666665em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontColor": "#ffffff",
+        "textDecorationColor": "#ffffff",
+        "height": "4.5975282428030475em",
+        "width": "18.975918796821936em",
+        "bottom": "45.34883720930233em",
+        "left": "53.2407553256507em",
+        "fontWeight": "bold"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem Ipsum",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#ffffff",
+          "fontSize": "2.6666666666666665em",
+          "textDecorationColor": "#ffffff",
+          "fontWeight": "bold"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "UdQLqGEY1", "offset": 0 },
+      "endTime": { "timeframeId": "UdQLqGEY1", "offset": 5 }
+    },
+    "OrzTAToyp": {
+      "id": "OrzTAToyp",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "2.6666666666666665em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "3.812400370480049em",
+        "width": "21.305438117860543em",
+        "bottom": "8.332335725491927em",
+        "left": "9.135987600259588em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "PUT TEXT HERE",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#FFFFFF",
+          "fontSize": "2.6666666666666665em"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "UdQLqGEY1", "offset": 0 },
+      "endTime": { "timeframeId": "UdQLqGEY1", "offset": 5 }
+    },
+    "fb9S8QjT2": {
+      "id": "fb9S8QjT2",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "5.333333333333333em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "7.626045125478064em",
+        "width": "40.24922344105398em",
+        "bottom": "45.78830971628033em",
+        "left": "6.300681103627302em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Put title text here",
+        "isPersonalized": false,
+        "label": "Add a heading",
+        "textStyle": {
+          "fontColor": "#FFFFFF",
+          "fontSize": "5.333333333333333em"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "FxrOtvHZH", "offset": 0 },
+      "endTime": { "timeframeId": "FxrOtvHZH", "offset": 5 }
+    },
+    "InFay9GdE": {
+      "id": "InFay9GdE",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "2.6666666666666665em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "7.117800684253968em",
+        "width": "39.89244737356108em",
+        "bottom": "38.10305394013093em",
+        "left": "6.458198131217985em",
+        "fontWeight": "bold"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Put subtitle text here",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#FFFFFF",
+          "fontSize": "2.6666666666666665em",
+          "fontWeight": "bold"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "FxrOtvHZH", "offset": 0 },
+      "endTime": { "timeframeId": "FxrOtvHZH", "offset": 5 }
+    },
+    "GsuiNNBQt": {
+      "id": "GsuiNNBQt",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "12.463534808112758em",
+        "width": "43.67647892737205em",
+        "bottom": "27.716853691884097em",
+        "left": "6.14316407603662em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#FFFFFF",
+          "fontSize": "1.7777777777777777em"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "FxrOtvHZH", "offset": 0 },
+      "endTime": { "timeframeId": "FxrOtvHZH", "offset": 5 }
+    },
+    "3nWKRGj63": {
+      "id": "3nWKRGj63",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "5.333333333333333em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "7.626045125478064em",
+        "width": "40.248120821860844em",
+        "bottom": "41.22031591615053em",
+        "left": "6.930749213990032em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Put title text here",
+        "isPersonalized": false,
+        "label": "Add a heading",
+        "textStyle": {
+          "fontColor": "#FFFFFF",
+          "fontSize": "5.333333333333333em"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "KCbmkOin-", "offset": 0 },
+      "endTime": { "timeframeId": "KCbmkOin-", "offset": 5 }
+    },
+    "j96i9YKRw": {
+      "id": "j96i9YKRw",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "2.6666666666666665em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "7.117800684253968em",
+        "width": "39.57741331837972em",
+        "bottom": "34.165128250363864em",
+        "left": "7.4033002967620805em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Put subtitle text here",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#FFFFFF",
+          "fontSize": "2.6666666666666665em"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "KCbmkOin-", "offset": 0 },
+      "endTime": { "timeframeId": "KCbmkOin-", "offset": 5 }
+    },
+    "xtKGVoyQn": {
+      "id": "xtKGVoyQn",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "5.084838671060342em",
+        "width": "5.489720438779432em",
+        "bottom": "61.26798056869948em",
+        "left": "94.51021655440954em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Add a body",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#FFFFFF",
+          "fontSize": "1.7777777777777777em"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "KCbmkOin-", "offset": 0 },
+      "endTime": { "timeframeId": "KCbmkOin-", "offset": 5 }
+    },
+    "lD0WxjlLPm": {
+      "id": "lD0WxjlLPm",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.8888888888888888em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "12.178035195604645em",
+        "width": "43.313559695803114em",
+        "bottom": "24.379382911292712em",
+        "left": "7.4033002967620805em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#FFFFFF",
+          "fontSize": "1.8888888888888888em"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "KCbmkOin-", "offset": 0 },
+      "endTime": { "timeframeId": "KCbmkOin-", "offset": 5 }
+    },
+    "AK-ndKUQc": {
+      "id": "AK-ndKUQc",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "2.6666666666666665em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontWeight": "bold",
+        "height": "5.38511338075646em",
+        "width": "34.66855267054368em",
+        "bottom": "21.248731987927897em",
+        "left": "7.4033002967620805em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "PUT NUMERIC DATE",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#FFFFFF",
+          "fontSize": "2.6666666666666665em",
+          "fontWeight": "bold"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "KCbmkOin-", "offset": 0 },
+      "endTime": { "timeframeId": "KCbmkOin-", "offset": 5 }
+    },
+    "qbA2a0BIW": {
+      "id": "qbA2a0BIW",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "2.6666666666666665em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontColor": "#4a90e2",
+        "textDecorationColor": "#4a90e2",
+        "height": "4.75504527039373em",
+        "width": "18.980801824677247em",
+        "bottom": "15.42060196707264em",
+        "left": "8.190885434715494em",
+        "fontWeight": "bold"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "LORE IPSUM",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#4a90e2",
+          "fontSize": "2.6666666666666665em",
+          "textDecorationColor": "#4a90e2",
+          "fontWeight": "bold"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "KCbmkOin-", "offset": 0 },
+      "endTime": { "timeframeId": "KCbmkOin-", "offset": 5 }
+    },
+    "e8O1L0gx-": {
+      "id": "e8O1L0gx-",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "2.111111111111111em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "11.546738452426707em",
+        "width": "41.10832130953356em",
+        "bottom": "3.587135269322614em",
+        "left": "8.505919489896858em",
+        "fontColor": "#4a90e2",
+        "textDecorationColor": "#4a90e2",
+        "fontWeight": "bold"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#4a90e2",
+          "fontSize": "2.111111111111111em",
+          "textDecorationColor": "#4a90e2",
+          "fontWeight": "bold"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "KCbmkOin-", "offset": 0 },
+      "endTime": { "timeframeId": "KCbmkOin-", "offset": 5 }
+    },
+    "bLZYbRK1o": {
+      "id": "bLZYbRK1o",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "5.333333333333333em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontColor": "#4a90e2",
+        "textDecorationColor": "#4a90e2",
+        "height": "7.626045125478064em",
+        "width": "40.24922344105398em",
+        "bottom": "41.37783294374122em",
+        "left": "7.5608173243527625em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Put title text here",
+        "isPersonalized": false,
+        "label": "Add a heading",
+        "textStyle": {
+          "fontColor": "#4a90e2",
+          "fontSize": "5.333333333333333em",
+          "textDecorationColor": "#4a90e2"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "LNzyemKS9", "offset": 0 },
+      "endTime": { "timeframeId": "LNzyemKS9", "offset": 5 }
+    },
+    "KxkuX9BCG": {
+      "id": "KxkuX9BCG",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "3.111111111111111em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "5.227596353165778em",
+        "width": "29.023772469803987em",
+        "bottom": "35.89781555386137em",
+        "left": "8.03336840712481em",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000",
+        "fontWeight": "bold"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Put title text here",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "3.111111111111111em",
+          "textDecorationColor": "#000000",
+          "fontWeight": "bold"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "LNzyemKS9", "offset": 0 },
+      "endTime": { "timeframeId": "LNzyemKS9", "offset": 5 }
+    },
+    "ZD4e-a4Mc": {
+      "id": "ZD4e-a4Mc",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "12.49306925078601em",
+        "width": "44.89235286334453em",
+        "bottom": "22.646695607795202em",
+        "left": "8.190885434715494em",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "1.7777777777777777em",
+          "textDecorationColor": "#000000"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "LNzyemKS9", "offset": 0 },
+      "endTime": { "timeframeId": "LNzyemKS9", "offset": 5 }
+    },
+    "AKVfKu1Lb": {
+      "id": "AKVfKu1Lb",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000",
+        "height": "3.9576153182158995em",
+        "width": "29.976277935644845em",
+        "bottom": "21.101138533075428em",
+        "left": "7.5608173243527625em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "- Point #1 and other text",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "1.7777777777777777em",
+          "textDecorationColor": "#000000"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "LNzyemKS9", "offset": 0 },
+      "endTime": { "timeframeId": "LNzyemKS9", "offset": 5 }
+    },
+    "J5-uJRkUd": {
+      "id": "J5-uJRkUd",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000",
+        "height": "3.8000982906252165em",
+        "width": "28.558624687328702em",
+        "bottom": "17.00569581571768em",
+        "left": "8.03336840712481em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "- Point #2 and other text",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "1.7777777777777777em",
+          "textDecorationColor": "#000000"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "LNzyemKS9", "offset": 0 },
+      "endTime": { "timeframeId": "LNzyemKS9", "offset": 5 }
+    },
+    "s7EfWyU9g": {
+      "id": "s7EfWyU9g",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000",
+        "height": "3.327547207853169em",
+        "width": "24.463181969970957em",
+        "bottom": "12.910253098359933em",
+        "left": "8.190885434715494em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "- Point #3 and other text",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "1.7777777777777777em",
+          "textDecorationColor": "#000000"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "LNzyemKS9", "offset": 0 },
+      "endTime": { "timeframeId": "LNzyemKS9", "offset": 5 }
+    },
+    "qK7QCZVV8": {
+      "id": "qK7QCZVV8",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "4.666666666666667em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontColor": "#ffffff",
+        "textDecorationColor": "#ffffff",
+        "height": "7.143899049113102em",
+        "width": "46.55372304559029em",
+        "bottom": "21.164286009164844em",
+        "left": "7.57338067126285em",
+        "fontWeight": "bold"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "PUT TILE TEXT HERE",
+        "isPersonalized": false,
+        "label": "Add a heading",
+        "textStyle": {
+          "fontColor": "#ffffff",
+          "fontSize": "4.666666666666667em",
+          "textDecorationColor": "#ffffff",
+          "fontWeight": "bold"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "jlALC_QoB", "offset": 0 },
+      "endTime": { "timeframeId": "jlALC_QoB", "offset": 5 }
+    },
+    "5kghERktt": {
+      "id": "5kghERktt",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "3.3333333333333335em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000",
+        "fontWeight": "bold",
+        "height": "4.7648900846181474em",
+        "width": "31.342265598911244em",
+        "bottom": "14.151959826857283em",
+        "left": "5.040544882901842em"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Put subtitle text here",
+        "isPersonalized": false,
+        "label": "Add a subheading",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "3.3333333333333335em",
+          "textDecorationColor": "#000000",
+          "fontWeight": "bold"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "jlALC_QoB", "offset": 0 },
+      "endTime": { "timeframeId": "jlALC_QoB", "offset": 5 }
+    },
+    "30FI050V4": {
+      "id": "30FI050V4",
+      "style": {
+        "variant": "subheading",
+        "fontSize": "1.7777777777777777em",
+        "fontFamily": "Roboto",
+        "color": "#FFFFFF",
+        "position": "absolute",
+        "zIndex": 13,
+        "align": "left",
+        "height": "14.698307637055567em",
+        "width": "52.76458135124407em",
+        "bottom": "-1.9259606963512756em",
+        "left": "5.513095965673889em",
+        "fontColor": "#000000",
+        "textDecorationColor": "#000000"
+      },
+      "asset": {
+        "kind": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        "isPersonalized": false,
+        "label": "Add a body",
+        "textStyle": {
+          "fontColor": "#000000",
+          "fontSize": "1.7777777777777777em",
+          "textDecorationColor": "#000000"
+        }
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "jlALC_QoB", "offset": 0 },
+      "endTime": { "timeframeId": "jlALC_QoB", "offset": 5 }
+    },
+    "3pzd21ffK": {
+      "id": "3pzd21ffK",
+      "style": {
+        "height": "43.28756938625066em",
+        "width": "43.28756938625066em",
+        "bottom": "6.458198131217985em",
+        "left": "54.50089154637617em",
+        "zIndex": 10,
+        "position": "absolute"
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672911707/music_uploads/ai6o4oqbf3htxjwurg6k.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672911707/music_uploads/ai6o4oqbf3htxjwurg6k.png"
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "PxeDwbuzp", "offset": 0 },
+      "endTime": { "timeframeId": "PxeDwbuzp", "offset": 5 }
+    },
+    "7OEDQK0HM": {
+      "id": "7OEDQK0HM",
+      "style": {
+        "height": "17.45367424218558em",
+        "width": "17.45367424218558em",
+        "bottom": "20.31969655919805em",
+        "left": "6.615715158808667em",
+        "zIndex": 10,
+        "position": "absolute"
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672912757/music_uploads/yne2i88tejqsuwgi1tj4.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672912757/music_uploads/yne2i88tejqsuwgi1tj4.png"
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "bEvU75vqK", "offset": 0 },
+      "endTime": { "timeframeId": "bEvU75vqK", "offset": 5 }
+    },
+    "ArF-U6Nfh": {
+      "id": "ArF-U6Nfh",
+      "style": {
+        "height": "17.92622532495763em",
+        "width": "17.92622532495763em",
+        "bottom": "20.004662504016686em",
+        "left": "27.565479828369448em",
+        "zIndex": 10,
+        "position": "absolute"
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672912791/music_uploads/tmmuckjl86ztd14ku3av.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672912791/music_uploads/tmmuckjl86ztd14ku3av.png"
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "bEvU75vqK", "offset": 0 },
+      "endTime": { "timeframeId": "bEvU75vqK", "offset": 5 }
+    },
+    "-sc_QIimR": {
+      "id": "-sc_QIimR",
+      "style": {
+        "height": "17.611191269776263em",
+        "width": "17.611191269776263em",
+        "bottom": "20.162179531607368em",
+        "left": "48.987795580702276em",
+        "zIndex": 10,
+        "position": "absolute"
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672912804/music_uploads/l0xxnktxhyfnha2qquix.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672912804/music_uploads/l0xxnktxhyfnha2qquix.png"
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "bEvU75vqK", "offset": 0 },
+      "endTime": { "timeframeId": "bEvU75vqK", "offset": 5 }
+    },
+    "BLaokllNp": {
+      "id": "BLaokllNp",
+      "style": {
+        "height": "29.897519421849506em",
+        "width": "29.897519421849506em",
+        "bottom": "23.31252008342102em",
+        "left": "62.37674292591029em",
+        "zIndex": 10,
+        "position": "absolute"
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672912893/music_uploads/zuj0m1nofjebpztks4o3.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672912893/music_uploads/zuj0m1nofjebpztks4o3.png"
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "ouqpBwpb8", "offset": 0 },
+      "endTime": { "timeframeId": "ouqpBwpb8", "offset": 5 }
+    },
+    "bzpMscf4P": {
+      "id": "bzpMscf4P",
+      "style": {
+        "height": "43.443983794648204em",
+        "width": "43.443983794648204em",
+        "bottom": "6.300681103627302em",
+        "left": "5.670612993264572em",
+        "zIndex": 10,
+        "position": "absolute"
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672912938/music_uploads/huftibonhitjotv6yilv.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672912938/music_uploads/huftibonhitjotv6yilv.png"
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "UdQLqGEY1", "offset": 0 },
+      "endTime": { "timeframeId": "UdQLqGEY1", "offset": 5 }
+    },
+    "lMdiOSdpN": {
+      "id": "lMdiOSdpN",
+      "style": {
+        "height": "42.476503048067265em",
+        "width": "42.476503048067265em",
+        "bottom": "7.91258996270762em",
+        "left": "52.29189888398079em",
+        "zIndex": 10,
+        "position": "absolute"
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672913072/music_uploads/dw7urupotvjhqjg21evs.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672913072/music_uploads/dw7urupotvjhqjg21evs.png"
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "FxrOtvHZH", "offset": 0 },
+      "endTime": { "timeframeId": "FxrOtvHZH", "offset": 5 }
+    },
+    "IvDH4MpeP": {
+      "id": "IvDH4MpeP",
+      "style": {
+        "height": "49.70104170966987em",
+        "width": "49.70104170966987em",
+        "bottom": "21.329590334255325em",
+        "left": "5.504410408840084em",
+        "zIndex": 10,
+        "position": "absolute"
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672913153/music_uploads/fsudzr9hqm6qvxse71gk.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672913153/music_uploads/fsudzr9hqm6qvxse71gk.png"
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "jlALC_QoB", "offset": 0 },
+      "endTime": { "timeframeId": "jlALC_QoB", "offset": 5 }
+    },
+    "9I2GCtCit": {
+      "id": "9I2GCtCit",
+      "style": {
+        "height": "8.066559092535362em",
+        "width": "36.520937335667305em",
+        "bottom": "43.88856472577em",
+        "left": "57.18141368736748em",
+        "zIndex": 10,
+        "position": "absolute"
+      },
+      "asset": {
+        "isPersonalized": false,
+        "kind": "Image",
+        "url": "https://res.cloudinary.com/rephraseai/image/upload/v1672913978/music_uploads/r26iadac0byajb1sdben.png",
+        "thumbnailUrl": "https://res.cloudinary.com/rephraseai/image/upload/v1672913978/music_uploads/r26iadac0byajb1sdben.png"
+      },
+      "animations": [],
+      "startTime": { "timeframeId": "meymTY11Q", "offset": 0 },
+      "endTime": { "timeframeId": "meymTY11Q", "offset": 5 }
+    }
+  },
+  "timeline": [
+    {
+      "id": "meymTY11Q",
+      "type": "clock",
+      "time": 5,
+      "draft": true,
+      "label": "5s"
+    },
+    {
+      "id": "PxeDwbuzp",
+      "type": "clock",
+      "time": 5,
+      "draft": true,
+      "label": "5s"
+    },
+    {
+      "id": "AfIzudHyw",
+      "type": "clock",
+      "time": 5,
+      "draft": true,
+      "label": "5s"
+    },
+    {
+      "id": "bEvU75vqK",
+      "type": "clock",
+      "time": 5,
+      "draft": true,
+      "label": "5s"
+    },
+    {
+      "id": "ouqpBwpb8",
+      "type": "clock",
+      "time": 5,
+      "draft": true,
+      "label": "5s"
+    },
+    {
+      "id": "UdQLqGEY1",
+      "type": "clock",
+      "time": 5,
+      "draft": true,
+      "label": "5s"
+    },
+    {
+      "id": "FxrOtvHZH",
+      "type": "clock",
+      "time": 5,
+      "draft": true,
+      "label": "5s"
+    },
+    {
+      "id": "KCbmkOin-",
+      "type": "clock",
+      "time": 5,
+      "draft": true,
+      "label": "5s"
+    },
+    {
+      "id": "LNzyemKS9",
+      "type": "clock",
+      "time": 5,
+      "draft": true,
+      "label": "5s"
+    },
+    {
+      "id": "jlALC_QoB",
+      "type": "clock",
+      "time": 5,
+      "draft": true,
+      "label": "5s"
+    }
+  ],
+  "video_dimension": { "height": 1080, "width": 1920 },
+  "uxVersion": "v3",
+  "scriptTimeframeMap": {}
+}
